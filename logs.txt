@@ -1,0 +1,213 @@
+
+
+---------------------LOG_2022_09_06_11:36---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+LOG_2022_09_06_11:36
+ANALYSIS LENGTH:	7000 ms ( 7 s )
+ENTERED KEYS REGISTERED:	14
+ENTERED WORDS REGISTERED:	4
+CURRENT PERIOD TYPING SPEED:	2 symbols/s	25.7143 words/min
+
+
+---------------------LOG_FINISHED---------------------
+
+---------------------LOG_2022_09_06_11:40---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+
+
+---------------------LOG_FINISHED---------------------
+
+---------------------LOG_2022_09_06_11:41---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+LOG_2022_09_06_11:41
+ANALYSIS LENGTH:	5000 ms ( 5 s )
+ENTERED KEYS REGISTERED:	16
+ENTERED WORDS REGISTERED:	4
+CURRENT PERIOD TYPING SPEED:	3.2 symbols/s	36 words/min
+
+
+---------------------LOG_FINISHED---------------------
+
+---------------------LOG_2022_09_06_15:10---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+
+
+---------------------LOG_FINISHED---------------------
+
+---------------------LOG_2022_09_06_16:16---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+
+
+---------------------LOG_FINISHED---------------------
+
+---------------------LOG_2022_09_06_16:19---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+
+
+---------------------LOG_FINISHED---------------------
+
+---------------------LOG_2022_09_06_16:23---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+
+
+---------------------LOG_FINISHED---------------------
+
+---------------------LOG_2022_09_06_16:25---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+
+
+---------------------LOG_FINISHED---------------------
+
+---------------------LOG_2022_09_06_16:26---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+
+
+---------------------LOG_FINISHED---------------------
+
+---------------------LOG_2022_09_06_16:28---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+
+
+---------------------LOG_FINISHED---------------------
+
+---------------------LOG_2022_09_06_16:30---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+
+
+---------------------LOG_FINISHED---------------------
+
+---------------------LOG_2022_09_06_16:36---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+
+
+---------------------LOG_FINISHED---------------------
+
+---------------------LOG_2022_09_07_11:09---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+
+
+---------------------LOG_FINISHED---------------------
+
+---------------------LOG_2022_09_07_11:19---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+
+
+---------------------LOG_FINISHED---------------------
+
+---------------------LOG_2022_09_07_14:25---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+
+
+---------------------LOG_FINISHED---------------------
+
+---------------------LOG_2022_09_07_15:56---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+LOG_2022_09_07_15:56
+ANALYSIS LENGTH:	14000 ms ( 14 s )
+ENTERED KEYS REGISTERED:	58
+ENTERED WORDS REGISTERED:	11
+CURRENT PERIOD TYPING SPEED:	4.14286 symbols/s	42.8571 words/min
+
+
+---------------------LOG_FINISHED---------------------
+
+---------------------LOG_2022_09_07_16:00---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+
+
+---------------------LOG_FINISHED---------------------
+
+---------------------LOG_2022_09_07_16:07---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+LOG_2022_09_07_16:08
+ANALYSIS LENGTH:	6000 ms ( 6 s )
+ENTERED KEYS REGISTERED:	32
+ENTERED WORDS REGISTERED:	8
+CURRENT PERIOD TYPING SPEED:	5.33333 symbols/s	70 words/min
+
+
+---------------------LOG_FINISHED---------------------
+
+---------------------LOG_2022_09_07_16:09---------------------
+
+PROGRAM STARTED SUCCESSFULLY
+KEYBOARD TYPE : 0x4	-	Enhanced 101 - or 102 - key keyboards(and compatibles)
+NUMBER OF KEYS DETECTED:	12
+
+LOG_2022_09_07_16:09
+ANALYSIS LENGTH:	9000 ms ( 9 s )
+ENTERED KEYS REGISTERED:	46
+ENTERED WORDS REGISTERED:	10
+CURRENT PERIOD TYPING SPEED:	5.11111 symbols/s	60 words/min
